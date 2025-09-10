@@ -1,4 +1,19 @@
-<div style="height: 200px; overflow-y: scroll;">
+```
+I defy interpretation, I am not participating in it
+```
+
+<details>
+<summary>
+<center><a href="https://tfo.creaturetracker.net/share/goals/f1bada96-4348-4c3b-976a-d21a4745796f"><img width="124" height="134" alt="sim_swarm_squad_member_entity" src="https://github.com/user-attachments/assets/c80811e2-b4c2-4fe4-a1ef-3d6a2a622d06" /></a></center><br />
+  
+
+
+</summary>
+  
+  
+Simulation Swarm by Big Thief  
+Songwriter: Adrianne Lenker  
+  <br />
   
 I tried to tell you  
 I didn't know how to stay  
@@ -18,7 +33,8 @@ Shadows on the moonlit floor
 O my stars, winged creatures  
 Gathering in silken height  
 Like the last human teachers  
-  
+
+
 Once again, we must bleed new  
 Even as the hours shake  
 Crystal blood like a dream true  
@@ -67,12 +83,5 @@ I wanna drop my arms and take your arms
 And walk you to the shore  
 I'd fly to you tomorrow, I'm not fighting in this war  
 I wanna drop my arms and take your arms  
-  
-<center><a href="https://tfo.creaturetracker.net/share/goals/f1bada96-4348-4c3b-976a-d21a4745796f"><img width="124" height="134" alt="sim_swarm_squad_member_entity" src="https://github.com/user-attachments/assets/c80811e2-b4c2-4fe4-a1ef-3d6a2a622d06" /></a></center>
-  
-#### Simulation Swarm 
-by Big Thief
 
-##### Songwriter:   Adrianne Lenker
-</pre>
-</div>
+</details>
