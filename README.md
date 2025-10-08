@@ -4,7 +4,8 @@ I defy interpretation, I am not participating in it
 
 <details>
 <summary>
-<center><a href="https://tfo.creaturetracker.net/share/goals/f1bada96-4348-4c3b-976a-d21a4745796f"><img width="124" height="134" alt="sim_swarm_squad_member_entity" src="https://github.com/user-attachments/assets/c80811e2-b4c2-4fe4-a1ef-3d6a2a622d06" /></a></center><br />
+<center><a href="https://tfo.creaturetracker.net/share/goals/f1bada96-4348-4c3b-976a-d21a4745796f"><img width="500" height="500" alt="andromeda_pfp" src="https://github.com/user-attachments/assets/fbd015ef-cdc0-4686-b67d-6e60b4bd350d" />
+</a></center><br />
   
 
 
